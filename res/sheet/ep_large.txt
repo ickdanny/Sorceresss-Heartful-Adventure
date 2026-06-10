@@ -1,0 +1,8 @@
+[ep_large_white]<0,0><60,60>
+[ep_large_red]<60,0><60,60>
+[ep_large_orange]<120,0><60,60>
+[ep_large_yellow]<180,0><60,60>
+[ep_large_green]<240,0><60,60>
+[ep_large_teal]<300,0><60,60>
+[ep_large_blue]<360,0><60,60>
+[ep_large_purple]<420,0><60,60>

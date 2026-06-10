@@ -1,0 +1,8 @@
+[set_box][d_p1]
+[set_text][Those living in dreams shouldn't bother those living in reality... maybe?]
+[stop]
+[set_box][d_e2]
+[set_text][I'm so sorry!]
+[stop]
+[continue]
+[stop]

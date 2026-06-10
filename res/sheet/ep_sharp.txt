@@ -1,0 +1,8 @@
+[ep_sharp_white]<0,0><16,32>
+[ep_sharp_red]<16,0><16,32>
+[ep_sharp_orange]<32,0><16,32>
+[ep_sharp_yellow]<48,0><16,32>
+[ep_sharp_green]<64,0><16,32>
+[ep_sharp_teal]<80,0><16,32>
+[ep_sharp_blue]<96,0><16,32>
+[ep_sharp_purple]<112,0><16,32>

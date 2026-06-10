@@ -1,0 +1,7 @@
+[pp_default]<21,48><32,60>
+[pp_shot1]<0,0><20,20>
+[pp_shot2_large1]<14,108><45,72>
+[pp_shot2_large2]<0,48><21,51>
+[pp_shot2_small1]<34,0><30,48>
+[pp_shot2_small2]<20,0><14,34>
+[pp_shot3]<0,108><14,60>

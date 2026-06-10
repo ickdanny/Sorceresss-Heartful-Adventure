@@ -1,0 +1,4 @@
+[menu_button_difficulty_diff1_sel]<0,0><234,600>
+[menu_button_difficulty_diff2_sel]<0,600><234,600>
+[menu_button_difficulty_diff3_sel]<0,1200><234,600>
+[menu_button_difficulty_diff4_sel]<0,1800><234,600>

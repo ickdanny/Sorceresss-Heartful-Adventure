@@ -1,0 +1,8 @@
+[ep_medium_white]<0,0><32,32>
+[ep_medium_red]<32,0><32,32>
+[ep_medium_orange]<64,0><32,32>
+[ep_medium_yellow]<96,0><32,32>
+[ep_medium_green]<128,0><32,32>
+[ep_medium_teal]<160,0><32,32>
+[ep_medium_blue]<192,0><32,32>
+[ep_medium_purple]<224,0><32,32>

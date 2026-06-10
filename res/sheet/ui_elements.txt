@@ -1,0 +1,4 @@
+[ui_bomb]<0,0><36,57>
+[ui_player]<36,0><36,57>
+[ui_power_over]<72,0><256,57>
+[ui_power_under]<328,0><256,57>

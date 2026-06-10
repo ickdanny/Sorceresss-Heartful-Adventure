@@ -1,0 +1,8 @@
+[ep_small_white]<0,0><16,16>
+[ep_small_red]<16,0><16,16>
+[ep_small_orange]<32,0><16,16>
+[ep_small_yellow]<48,0><16,16>
+[ep_small_green]<64,0><16,16>
+[ep_small_teal]<80,0><16,16>
+[ep_small_blue]<96,0><16,16>
+[ep_small_purple]<112,0><16,16>

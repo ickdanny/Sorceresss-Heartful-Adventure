@@ -1,0 +1,6 @@
+[menu_button_level_level1_unsel]<0,0><330,75>
+[menu_button_level_level2_unsel]<0,75><330,75>
+[menu_button_level_level3_unsel]<0,150><330,75>
+[menu_button_level_level4_unsel]<0,225><330,75>
+[menu_button_level_level5_unsel]<0,300><330,75>
+[menu_button_level_level6_unsel]<0,375><330,75>

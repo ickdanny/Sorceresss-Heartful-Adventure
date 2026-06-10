@@ -1,0 +1,2 @@
+[menu_button_pause_back_sel]<0,0><111,33>
+[menu_button_pause_quit_sel]<111,0><111,33>

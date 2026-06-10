@@ -1,0 +1,6 @@
+[menu_button_level_level1_sel]<0,0><900,75>
+[menu_button_level_level2_sel]<0,75><900,75>
+[menu_button_level_level3_sel]<0,150><900,75>
+[menu_button_level_level4_sel]<0,225><900,75>
+[menu_button_level_level5_sel]<0,300><900,75>
+[menu_button_level_level6_sel]<0,375><900,75>

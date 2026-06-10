@@ -1,0 +1,7 @@
+[set_box][d_p1]
+[set_text][So anyway, I'm collecting pieces of my heart.]
+[stop]
+[set_text][You wouldn't happen to have one would you?]
+[stop]
+[continue]
+[stop]
