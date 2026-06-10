@@ -28,7 +28,7 @@ jpackage `
 
 # Copy resources and packaging
 cp -r res SHA\
-cp packaging\* SHA\
+cp -r packaging\* SHA\
 
 # Zip it up
 Compress-Archive -Path SHA -DestinationPath SHA.zip
