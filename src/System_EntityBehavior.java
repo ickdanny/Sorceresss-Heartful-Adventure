@@ -268,7 +268,8 @@ public class System_EntityBehavior implements ECSSystem {
         }else{
             MenuManager.getMainBoard().write(new BoardMessage("command_back_to_menu", this));
         }
-        MenuManager.getMainBoard().write(new BoardMessage("command_add_credits", this));
+        // uncomment to test if credits works using practice :3
+        // MenuManager.getMainBoard().write(new BoardMessage("command_add_credits", this));
         return true;
     }
     //doesn't work - need to give double (bound large needs - bound) -> will just workaround fuckin hell
