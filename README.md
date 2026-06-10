@@ -1,3 +1,27 @@
-Sorcery Engine
+# Sorceress's Heartful Adventure v1.1
 
-Java-based ECS shmup engine
+Sorceress's Heartful Adventure (SHA) is the second entry in the Eucatastrophe series of vertical bullet hell shoot-em-up games. This repository includes all resources needed to compile and build the game locally. The underlying engine is called the Sorcery Engine, and it is written using Java and is engineered around ECS principles.
+
+Instructions on how to play the game can be found in the `packaging/README`. directory.
+
+## Requirements
+
+To run the game, the following minimum requirements are stated:
+- Windows 8.1
+- 2GB RAM
+
+To build the game, users require OpenJDK 25.0.3, although earlier versions will most likely work.
+
+## Installation
+
+Install SHA as follows using Powershell:
+
+```
+git clone https://www.github.com/ickdanny/todo
+cd todo
+.\build.ps1
+```
+
+## Usage
+
+The build script should create the directory `SHA` and the archive `SHA.zip`. To launch the game, navigate to `SHA` and run `SHA.exe`.
