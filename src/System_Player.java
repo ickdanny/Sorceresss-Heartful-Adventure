@@ -128,6 +128,10 @@ public class System_Player implements ECSSystem {
 //            SystemManager.getECSBoard().write(new BoardMessage("playerReset", 30, "gameplay"));
             SystemManager.getECSBoard().write(new BoardMessage("gameLoss", 140, "gameplay"));
             frame.setTransparency(0);
+
+            // prevent player from shooting while game over lmao
+            pComp.setNoInputTimer(1000);
+            pComp.setNoHitTimer(1000);
         }
         //internalmessage comes right after - so lifetime 1
         //this tells internalmessage to clear playerDeath messges to prevent double death
