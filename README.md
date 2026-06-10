@@ -2,7 +2,7 @@
 
 Sorceress's Heartful Adventure (SHA) is the second entry in the Eucatastrophe series of vertical bullet hell shoot-em-up games. This repository includes all resources needed to compile and build the game locally. The underlying engine is called the Sorcery Engine, and it is written using Java and is engineered around ECS principles.
 
-Instructions on how to play the game can be found in the `packaging/README`. directory.
+Instructions on how to play the game can be found in the `packaging/README` directory.
 
 ## Requirements
 
