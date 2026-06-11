@@ -24,4 +24,4 @@ cd Sorceresss-Heartful-Adventure
 
 ## Usage
 
-The build script should create the directory `SHA` and the archive `SHA.zip`. To launch the game, navigate to `SHA` and run `SHA.exe`.
+The build script should create the directory `EU02_SHA` and the archive `EU02_SHA.zip`. To launch the game, navigate to `EU02_SHA` and run `EU02_SHA.exe`.

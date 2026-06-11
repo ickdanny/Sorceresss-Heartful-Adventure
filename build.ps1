@@ -20,15 +20,15 @@ jlink --add-modules java.base,java.desktop --output build\runtime
 # Package
 jpackage `
   --type app-image `
-  --name SHA `
+  --name EU02_SHA `
   --input .\build\artifacts `
   --main-jar SHA.jar `
   --runtime-image .\build\runtime `
   --icon .\packaging\ico.ico
 
 # Copy resources and packaging
-cp -r res SHA\
-cp -r packaging\* SHA\
+cp -r res EU02_SHA\
+cp -r packaging\* EU02_SHA\
 
 # Zip it up
-Compress-Archive -Path SHA -DestinationPath SHA.zip
+Compress-Archive -Path EU02_SHA -DestinationPath EU02_SHA.zip
